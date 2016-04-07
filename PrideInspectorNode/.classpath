@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/chardet-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/com.springsource.antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/com.springsource.org.apache.commons.io-1.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/commons-codec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/commons-math-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/cpdetector-1.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/jargs-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/jaxb-api-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/jaxb-impl-2.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/jaxb-xjc-2.1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/jmzml-1.6.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/junit-3.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/looks-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/mascotdatfile-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/omssa-parser-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/servlet-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/stax-api-1.0-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/swing-layout-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/utilities-3.0.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/xpp3-1.1.3.4-RC3.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/xtandem-parser-1.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/lib/xxindex-0.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="jmzml/jmzmlGUI-1.6.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
